@@ -64,12 +64,12 @@ end
 
 
 
-def using_uiniq(array)
+def using_uiniq(haircuts)
   .uniq 
   
 end
 
-
+   new_array = using_uniq(haircuts)
 
 
 ############
