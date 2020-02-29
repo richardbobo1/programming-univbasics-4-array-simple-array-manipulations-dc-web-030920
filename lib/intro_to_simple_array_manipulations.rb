@@ -95,13 +95,15 @@ end
 
 
 
-def using_delete_at(array, integer)
-  
+def using_delete_at(arfamous_robots, integer)
+  integer = 2 
+  deleted_robot = famous_robots.delete(integer)
 end
 
   
 
 
+    deleted_robot = using_delete_at(famous_robots, 2)
 
 
 
