@@ -103,7 +103,6 @@ end
   
 
 
-    deleted_robot = using_delete_at(famous_robots, 2)
 
 
 
