@@ -39,3 +39,70 @@ end
 
 
 
+
+
+def using_concat(array1, array2)
+  
+  .concat 
+end
+
+
+
+
+
+def using_insert(array, element)
+  .insert 
+  
+end
+
+
+
+
+
+
+
+def using_uiniq(array)
+  .uniq 
+  
+end
+
+
+
+
+
+def using_flatten(array)
+  .flatten 
+  
+end
+
+
+
+
+
+def using_delete(array, string)
+  .delete 
+  
+end
+
+
+
+
+def using_delete_at(array, integer)
+  
+end
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
