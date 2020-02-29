@@ -95,7 +95,7 @@ end
 
 
 
-def using_delete_at(arfamous_robots, 2)
+def using_delete_at(famous_robots, 2)
   deleted_robot = famous_robots.delete(2)
 end
 
