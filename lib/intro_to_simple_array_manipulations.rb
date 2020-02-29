@@ -33,10 +33,9 @@ def using_shift (my_favorite_cities)
 end
 
 
-def shift_with_args(array)
-  .shift(2)
+def shift_with_args(ice_cream_brands)
+  brands_removed = ice_cream_brands.shift(2)
 end
 
 
-    @brands_removed = shift_with_args(@ice_cream_brands)
 
