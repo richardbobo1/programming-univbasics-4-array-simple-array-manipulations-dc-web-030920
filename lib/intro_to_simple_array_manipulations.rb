@@ -58,9 +58,46 @@ def using_insert(list_of_programming_languages, another_language)
 end
 
 
+############
+
+
+
+
+
+def using_uiniq(array)
+  .uniq 
+  
+end
+
+
 
 
 ############
+
+def using_flatten(array)
+  .flatten 
+  
+end
+
+
+
+
+
+def using_delete(array, string)
+  .delete 
+  
+end
+
+
+
+
+def using_delete_at(array, integer)
+  
+end
+
+  
+
+
 
 
 
