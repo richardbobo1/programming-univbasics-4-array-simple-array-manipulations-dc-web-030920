@@ -65,7 +65,7 @@ end
 
 
 def using_uiniq(haircuts)
-  .uniq 
+  new_array = haircuts.uniq 
   
 end
 
