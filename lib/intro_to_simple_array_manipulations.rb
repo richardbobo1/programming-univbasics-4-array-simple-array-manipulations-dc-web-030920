@@ -73,11 +73,10 @@ end
 
 ############
 
-def using_flatten(array)
-  .flatten 
+def using_flatten(instruments)
+  flat_array = instruments.flatten 
   
 end
-
 
 
 
