@@ -51,10 +51,16 @@ end
 
 
 
-def using_insert(array, element)
-  .insert(4) 
+def using_insert(list_of_programming_languages, another_language)
+  another_language = "Python"
+ new_array =  list_of_programming_languages.insert(4) 
   
 end
+
+
+
+    @another_language = "Python"
+    @new_array = using_insert(@list_of_programming_languages, @another_language)
 
 
 ############
