@@ -85,10 +85,12 @@ end
 
 
 
-def using_delete(array, string)
-  .delete 
+def using_delete(instructors, string)
+  string = "Steven"
+  no_offense_steven = instructors.delete(string)
   
 end
+
 
 
 
