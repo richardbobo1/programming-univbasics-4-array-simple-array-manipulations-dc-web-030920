@@ -41,9 +41,12 @@ end
 
 
 
-def using_concat(array1, array2)
+def using_concat(my_favorite_things, more_favs)
   
   .concat 
+  
+  
+   @all_my_favs = .concat(@my_favorite_things, more_favs)
 end
 
 
