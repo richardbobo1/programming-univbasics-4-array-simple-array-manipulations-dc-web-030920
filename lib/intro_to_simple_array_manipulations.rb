@@ -38,3 +38,5 @@ def shift_with_args(array)
 end
 
 
+    @brands_removed = shift_with_args(@ice_cream_brands)
+
