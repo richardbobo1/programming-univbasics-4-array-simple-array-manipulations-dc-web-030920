@@ -26,7 +26,7 @@ def pop_with_args(dog_breeds)
 
 end
 
-def using_shift (array)
-  array.shift 
+def using_shift (my_favorite_cities)
+  im_so_over_this_city = array.shift 
 end
 
